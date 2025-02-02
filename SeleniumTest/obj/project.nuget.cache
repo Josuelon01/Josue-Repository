@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIdETdJsi2E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EL LOVER\\Desktop\\tutoria\\SeleniumTest\\SeleniumTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EL LOVER\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
+    "C:\\Users\\EL LOVER\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\EL LOVER\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.15900\\selenium.webdriver.chromedriver.132.0.6834.15900.nupkg.sha512"
+  ],
+  "logs": []
+}
