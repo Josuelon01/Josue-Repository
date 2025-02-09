@@ -1,0 +1,286 @@
+[
+  {
+    "ContainingType": "MandrilApi.Controllers.MandrilController",
+    "Method": "GetMandriles",
+    "RelativePath": "api/Mandril",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MandrilApi.Models.Mandril, MandrilApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.MandrilController",
+    "Method": "PostMandril",
+    "RelativePath": "api/Mandril",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilInsert",
+        "Type": "MandrilApi.Models.MandrilInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Mandril",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.MandrilController",
+    "Method": "GetMandril",
+    "RelativePath": "api/Mandril/{mandrilId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Mandril",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.MandrilController",
+    "Method": "PutMandril",
+    "RelativePath": "api/Mandril/{mandrilId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mandrilInsert",
+        "Type": "MandrilApi.Models.MandrilInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Mandril",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.MandrilController",
+    "Method": "DeleteMandril",
+    "RelativePath": "api/Mandril/{mandrilId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Mandril",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.HabilidadController",
+    "Method": "GetHabilidades",
+    "RelativePath": "api/mandril/{mandrilId}/Habilidad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MandrilApi.Models.Habilidad, MandrilApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.HabilidadController",
+    "Method": "PostHabilidad",
+    "RelativePath": "api/mandril/{mandrilId}/Habilidad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "habilidadInsert",
+        "Type": "MandrilApi.Models.HabilidadInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Habilidad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.HabilidadController",
+    "Method": "GetHabilidad",
+    "RelativePath": "api/mandril/{mandrilId}/Habilidad/{habilidadId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "habilidadId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Habilidad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.HabilidadController",
+    "Method": "PutHabilidad",
+    "RelativePath": "api/mandril/{mandrilId}/Habilidad/{habilidadId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "habilidadId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "habilidadInsert",
+        "Type": "MandrilApi.Models.HabilidadInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Habilidad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MandrilApi.Controllers.HabilidadController",
+    "Method": "DeleteHabilidad",
+    "RelativePath": "api/mandril/{mandrilId}/Habilidad/{habilidadId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mandrilId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "habilidadId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MandrilApi.Models.Habilidad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

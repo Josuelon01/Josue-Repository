@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\controllers\\habilidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\controllers\\habilidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\models\\habilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\models\\habilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\services\\mandrildatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\services\\mandrildatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\helpers\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\helpers\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\controllers\\mandrilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\controllers\\mandrilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\models\\mandril.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\models\\mandril.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|c:\\users\\el lover\\desktop\\apirest\\mandrilapi\\mandrilapi\\models\\mandrilinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF87402D-9964-4038-9478-064C9D6F684E}|MandrilApi\\MandrilApi.csproj|solutionrelative:mandrilapi\\models\\mandrilinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Habilidad.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Models\\Habilidad.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Models\\Habilidad.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Models\\Habilidad.cs",
+              "RelativeToolTip": "MandrilApi\\Models\\Habilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:41:40.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Helpers\\Mensajes.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Helpers\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Helpers\\Mensajes.cs",
+              "RelativeToolTip": "MandrilApi\\Helpers\\Mensajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:14:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mandril.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Models\\Mandril.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Models\\Mandril.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Models\\Mandril.cs",
+              "RelativeToolTip": "MandrilApi\\Models\\Mandril.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:46:20.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HabilidadController.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Controllers\\HabilidadController.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Controllers\\HabilidadController.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Controllers\\HabilidadController.cs",
+              "RelativeToolTip": "MandrilApi\\Controllers\\HabilidadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:52:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MandrilController.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Controllers\\MandrilController.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Controllers\\MandrilController.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Controllers\\MandrilController.cs",
+              "RelativeToolTip": "MandrilApi\\Controllers\\MandrilController.cs",
+              "ViewState": "AgIAACwAAAAAMzMzMzMLwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T23:30:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MandrilInsert.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Models\\MandrilInsert.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Models\\MandrilInsert.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Models\\MandrilInsert.cs",
+              "RelativeToolTip": "MandrilApi\\Models\\MandrilInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T00:52:33.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MandrilDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Services\\MandrilDataStore.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Services\\MandrilDataStore.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Services\\MandrilDataStore.cs",
+              "RelativeToolTip": "MandrilApi\\Services\\MandrilDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T23:30:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Program.cs",
+              "RelativeDocumentMoniker": "MandrilApi\\Program.cs",
+              "ToolTip": "C:\\Users\\EL LOVER\\Desktop\\ApiRest\\MandrilApi\\MandrilApi\\Program.cs",
+              "RelativeToolTip": "MandrilApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:21:03.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
